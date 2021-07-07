@@ -1,6 +1,6 @@
 # de.NBI Cloud Freiburg
 
-Welcome to the de.NBI Cloud site Freiburg. Freburg is offering access to cloud resources
+Welcome to the de.NBI Cloud site Freiburg. Freiburg is offering access to cloud resources
 via the [Galaxy Gateway](https://galaxyproject.org) and the [European Galaxy server](https://usegalaxy.eu).
 
 
@@ -8,7 +8,7 @@ via the [Galaxy Gateway](https://galaxyproject.org) and the [European Galaxy ser
 
 ### Get Started - the GUI Way
 
-The [Galaxy Training Network](https://training.galaxyproject.org) is providing more than 130 trainings, ready to use on the European Galaxy server with e-learning materials. Learn how to start workflows, how to upload thousands of datasets and group them into paired-end collections, directly interact with
+The [Galaxy Training Network](https://training.galaxyproject.org) is providing more than 210 trainings, ready to use on the European Galaxy server with e-learning materials. Learn how to start workflows, how to upload thousands of datasets and group them into paired-end collections, directly interact with
 ENA or SRA, or learn how to use one of our 2500 tools.
 
 ### Get Started - the API way
